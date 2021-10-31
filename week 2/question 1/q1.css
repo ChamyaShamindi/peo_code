@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+
+.top-container{
+    height: 55px;
+    background-color: #E4290A;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 0;
+    padding: 11px;
+}
+
+.middle-container{
+    background-color: #4D8BBC ;
+    height: 320px;
+}
+
+.middle-container table h3{
+    font-family: 'Amatic SC', cursive;
+    font-style: italic;
+}
+
+.middle-container table p{
+    text-indent: 1em;
+}
+
+.middle-container table h2{
+    color: #EDAC4D;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.middle-container img{
+    height: 200px;
+    float: right;
+    position: absolute;
+    vertical-align: bottom;
+}
+
+
+
+.bottom-container{
+    background-color: #EDAC4D;
+    height: 300px;
+    padding: 12px;
+}
+
+.bottom-container table h3{
+
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-style: italic;
+}
+
+.bottom-container table p{
+    text-indent: 1em;
+}
+
+.bottom-container table h2{
+    color: rgb(202, 0, 0);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.bottom-container img{
+    height: 200px;
+    position: absolute;
+    text-align-last: right;
+}
+
